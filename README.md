@@ -1,2 +1,3 @@
 # PRPractice
-This is a repository to pracitice pull requests on Github
+
+This is a repository to practice pull requests on Github
